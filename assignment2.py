@@ -31,3 +31,9 @@ print('fees=%d'%5000)
 name="Tony Stark"
 salary=1000000
 print('%s''%d' %(name,salary))
+
+7.
+# Find area of circle
+r=int(input("enter the radius :"))
+area=3.14*r*r
+print("area:",area)
